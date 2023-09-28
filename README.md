@@ -15,4 +15,4 @@ The Task Manager App is a simple React application for managing your tasks. You 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KAZIALEENA/TodoApp.git
